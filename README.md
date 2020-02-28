@@ -25,7 +25,7 @@ After entering the number you will be asked to choose the number of passes (cycl
 
 The command to run the script will look like this:
 
-     python hydr0.py -p 92105671
+     python sms.py
 
 ***
 
